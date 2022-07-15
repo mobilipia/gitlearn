@@ -7,3 +7,4 @@ Another Line
 
 
 Adding this to my branch devworks
+close all lines
